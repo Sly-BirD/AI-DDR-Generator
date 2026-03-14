@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+pillow
+google-generativeai
+requests
+python-dotenv
