@@ -6,7 +6,7 @@ An AI-powered system that reads a building **Inspection Report** and a **Thermal
 ---
 
 ## 🚀 Live Demo
-"coming soon"
+https://ai-ddr-generator-yash-pathak.streamlit.app/
 > Upload both PDFs → Get a structured DDR in under a minute.
 
 ---
